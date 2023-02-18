@@ -9,8 +9,6 @@
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
 
-Test
-
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
